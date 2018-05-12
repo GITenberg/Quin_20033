@@ -1,0 +1,32 @@
+_repo: Quin_20033
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Rice, Alice Caldwell Hegan
+    aliases:
+    - Rice, Alice Hegan
+    - Hegan, Alice Caldwell
+    birthdate: 1870
+    deathdate: 1942
+    gutenberg_agent_id: '1471'
+    url: http://www.gutenberg.org/2009/agents/1471
+    wikipedia: http://en.wikipedia.org/wiki/Alice_Hegan_Rice
+description: ''
+gutenberg_issued: '2006-12-05'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Courtship -- Fiction'
+- !lcsh 'Actors and actresses -- Fiction'
+- !lcsh 'World War, 1914-1918 -- Veterans -- Fiction'
+- !lcc 'PS'
+title: Quin
+url: http://www.gutenberg.org/ebooks/20033
